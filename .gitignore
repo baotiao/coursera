@@ -26,3 +26,6 @@
 *.exe
 *.out
 *.app
+
+# gdb test file
+*gdb.txt

@@ -1,2 +1,3 @@
-b phase_2
+b phase_6
 r
+layout asm
